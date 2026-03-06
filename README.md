@@ -104,7 +104,7 @@ High-scale online examination system with proctoring, analytics, and secure test
 # 🌐 Connect With Me
 
 - Portfolio: https://khang-portfolio-psi.vercel.app
-- LinkedIn: https://linkedin.com
+- LinkedIn: https://www.linkedin.com/in/khang-mai-77392211b/
 - GitHub: https://github.com/KhangSteve
 
 ---
