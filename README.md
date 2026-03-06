@@ -31,6 +31,7 @@ Building systems across <b>Web • Mobile • Cloud • Blockchain</b>
 
 - Technical Lead — Architecting scalable systems
 - Full-stack development for high-scale platforms
+- Frontend specialist, SDK, Tools Developments
 - Backend architecture and API design
 - Blockchain and Web3 integrations
 - Cloud infrastructure and distributed systems
